@@ -182,6 +182,9 @@ console.log(checkvalue(0))
 console.log(checkvalue(99))
 
 
+14*16;
+
+
 
 
 
